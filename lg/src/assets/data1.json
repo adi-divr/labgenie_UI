@@ -1,0 +1,15 @@
+{ 
+    "Device Name":"Device 1",
+"Cal.used":"MC",
+"Cal.conc":"105",
+"Cal.lost":"3423343",
+"Blank":"72",
+"Cal.Expry":"04/2025",
+"Factor":"0.20220",
+"Cal1":"cal-2",
+"Cal4":"cal-3",
+"Control used":"N209",
+"Specification":"54.9",
+"Results obtained":"3.510=8.0"
+
+}
