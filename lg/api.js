@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://192.168.5.31:3001'; 
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 // Register User
 export const registerUser = async (userData) => {
